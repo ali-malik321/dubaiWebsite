@@ -636,7 +636,6 @@ const Navbar = () => {
                           <span className="elementor-grid-item">
                             <a
                               className="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-7a54271"
-                              href="https://www.facebook.com/dedicatedtechnical/"
                               target="_blank"
                             >
                               <span className="elementor-screen-only">
@@ -651,7 +650,6 @@ const Navbar = () => {
                           <span className="elementor-grid-item">
                             <a
                               className="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-3398202"
-                              href="https://www.instagram.com/dedicatedtechnical/"
                               target="_blank"
                             >
                               <span className="elementor-screen-only">
@@ -709,7 +707,7 @@ const Navbar = () => {
                               '                                        /*! elementor - v3.16.0 - 09-10-2023 */                                        .elementor-widget-image {                                            text-align: center                                        }                                        .elementor-widget-image a {                                            display: inline-block                                        }                                        .elementor-widget-image a img[src$=".svg"] {                                            width: 48px                                        }                                        .elementor-widget-image img {                                            vertical-align: middle;                                            display: inline-block                                        }                                    ',
                           }}
                         />{" "}
-                        <a href="https://dedicatedtechnical.com/">
+                        <a>
                           <img
                             alt="Dedicated technical Services logo"
                             className="attachment-full size-full wp-image-5341"
@@ -782,7 +780,6 @@ const Navbar = () => {
                               >
                                 <a
                                   className="ekit-menu-nav-link active"
-                                  href="https://dedicatedtechnical.com/"
                                 >
                                   Home
                                 </a>
@@ -797,7 +794,6 @@ const Navbar = () => {
                               >
                                 <a
                                   className="ekit-menu-nav-link"
-                                  href="https://dedicatedtechnical.com/about-us/"
                                 >
                                   About Us
                                 </a>
@@ -812,7 +808,6 @@ const Navbar = () => {
                               >
                                 <a
                                   className="ekit-menu-nav-link ekit-menu-dropdown-toggle"
-                                  href="https://dedicatedtechnical.com/our-services/"
                                 >
                                   Our Services
                                   <i
@@ -834,7 +829,6 @@ const Navbar = () => {
                                   >
                                     <a
                                       className=" dropdown-item"
-                                      href="https://dedicatedtechnical.com/fit-out-contractors-in-dubai/"
                                     >
                                       OFFICE FIT OUT
                                     </a>
@@ -868,7 +862,6 @@ const Navbar = () => {
                                       >
                                         <a
                                           className=" dropdown-item"
-                                          href="https://dedicatedtechnical.com/kitchen-renovation-dubai/"
                                         >
                                           KITCHEN RENOVATION
                                         </a>
@@ -883,7 +876,6 @@ const Navbar = () => {
                                       >
                                         <a
                                           className=" dropdown-item"
-                                          href="https://dedicatedtechnical.com/villa-renovation-dubai/"
                                         >
                                           VILLA RENOVATION
                                         </a>
@@ -898,7 +890,6 @@ const Navbar = () => {
                                       >
                                         <a
                                           className=" dropdown-item"
-                                          href="https://dedicatedtechnical.com/apartment-renovation-dubai/"
                                         >
                                           APARTMENT RENOVATION
                                         </a>{" "}
@@ -915,7 +906,6 @@ const Navbar = () => {
                                   >
                                     <a
                                       className=" dropdown-item"
-                                      href="https://dedicatedtechnical.com/electrical-services-dubai/"
                                     >
                                       ELECTRICAL
                                     </a>
@@ -930,7 +920,6 @@ const Navbar = () => {
                                   >
                                     <a
                                       className=" dropdown-item"
-                                      href="https://dedicatedtechnical.com/plumbing-services-dubai/"
                                     >
                                       PLUMBING
                                     </a>
@@ -945,7 +934,6 @@ const Navbar = () => {
                                   >
                                     <a
                                       className=" dropdown-item"
-                                      href="https://dedicatedtechnical.com/painting-services-in-dubai/"
                                     >
                                       PAINTING
                                     </a>
@@ -960,7 +948,6 @@ const Navbar = () => {
                                   >
                                     <a
                                       className=" dropdown-item"
-                                      href="https://dedicatedtechnical.com/handyman-dubai/"
                                     >
                                       HANDYMAN
                                     </a>
@@ -975,7 +962,6 @@ const Navbar = () => {
                                   >
                                     <a
                                       className=" dropdown-item"
-                                      href="https://dedicatedtechnical.com/water-tank-cleaning-services/"
                                     >
                                       WATER TANK CLEANING
                                     </a>
@@ -990,7 +976,6 @@ const Navbar = () => {
                                   >
                                     <a
                                       className=" dropdown-item"
-                                      href="https://dedicatedtechnical.com/wallpaper-fixing-dubai/"
                                     >
                                       WALLPAPER FIXING
                                     </a>
@@ -1005,7 +990,6 @@ const Navbar = () => {
                                   >
                                     <a
                                       className=" dropdown-item"
-                                      href="https://dedicatedtechnical.com/swimming-pool-maintenance/"
                                     >
                                       POOL MAINTENANCE
                                     </a>
@@ -1020,7 +1004,6 @@ const Navbar = () => {
                                   >
                                     <a
                                       className=" dropdown-item"
-                                      href="https://dedicatedtechnical.com/carpentry-services-dubai/"
                                     >
                                       CARPENTRY SERVICES
                                     </a>
@@ -1059,7 +1042,6 @@ const Navbar = () => {
                                   >
                                     <a
                                       className=" dropdown-item"
-                                      href="https://dedicatedtechnical.com/ac-installation-dubai/"
                                     >
                                       AC INSTALLATION
                                     </a>
@@ -1074,7 +1056,6 @@ const Navbar = () => {
                                   >
                                     <a
                                       className=" dropdown-item"
-                                      href="https://dedicatedtechnical.com/ac-maintenance-dubai/"
                                     >
                                       AC MAINTENANCE
                                     </a>
@@ -1089,7 +1070,6 @@ const Navbar = () => {
                                   >
                                     <a
                                       className=" dropdown-item"
-                                      href="https://dedicatedtechnical.com/ac-duct-cleaning-dubai/"
                                     >
                                       AC DUCT CLEANING
                                     </a>
@@ -1104,7 +1084,6 @@ const Navbar = () => {
                                   >
                                     <a
                                       className=" dropdown-item"
-                                      href="https://dedicatedtechnical.com/ac-coil-cleaning-dubai/"
                                     >
                                       AC COIL CLEANING
                                     </a>
@@ -1499,7 +1478,7 @@ const Navbar = () => {
                                   "                                                    "
                                 }
                                 <p>
-                                  <a href="https://dedicatedtechnical.com/thank-you/">
+                                  <a >
                                     <input
                                       className="wpcf7-form-control wpcf7-submit has-spinner"
                                       type="submit"
@@ -1920,7 +1899,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/ac-maintenance-dubai/">
+                                <a >
                                   Ac Maintenance
                                 </a>
                               </h3>
@@ -1984,7 +1963,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/ac-duct-cleaning-dubai/">
+                                <a >
                                   Ac Duct Cleaning
                                 </a>
                               </h3>
@@ -2048,7 +2027,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/ac-coil-cleaning-dubai/">
+                                <a >
                                   Ac Coil Cleaning
                                 </a>
                               </h3>
@@ -2112,7 +2091,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/ac-installation-dubai/">
+                                <a >
                                   Ac Installation
                                 </a>
                               </h3>
@@ -2188,7 +2167,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/electrical-services-dubai/">
+                                <a >
                                   Electrical
                                 </a>
                               </h3>
@@ -2252,7 +2231,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/plumbing-services-dubai/">
+                                <a >
                                   Plumbing
                                 </a>
                               </h3>
@@ -2316,7 +2295,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/handyman-dubai/">
+                                <a >
                                   Handyman
                                 </a>
                               </h3>
@@ -2380,7 +2359,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/painting-services-in-dubai/">
+                                <a >
                                   Painting
                                 </a>
                               </h3>
@@ -2456,7 +2435,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/wallpaper-fixing-dubai/">
+                                <a >
                                   Wallpaper Fixing
                                 </a>
                               </h3>
@@ -2517,7 +2496,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/fit-out-contractors-in-dubai/">
+                                <a >
                                   Office Fit Out{" "}
                                 </a>
                               </h3>
@@ -2581,7 +2560,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/water-tank-cleaning-services/">
+                                <a >
                                   Water Tank Cleaning
                                 </a>
                               </h3>
@@ -2645,7 +2624,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/swimming-pool-maintenance/">
+                                <a >
                                   Pool Maintenance
                                 </a>
                               </h3>
@@ -2721,7 +2700,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/apartment-renovation-dubai/">
+                                <a >
                                   Apartment Renovation
                                 </a>
                               </h3>
@@ -2785,7 +2764,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/kitchen-renovation-dubai/">
+                                <a >
                                   Kitchen Renovation
                                 </a>
                               </h3>
@@ -2849,7 +2828,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/villa-renovation-dubai/">
+                                <a >
                                   Villa Renovation
                                 </a>
                               </h3>
@@ -2913,7 +2892,7 @@ const Navbar = () => {
                                 "                                                "
                               }
                               <h3 className="elementor-heading-title elementor-size-default">
-                                <a href="https://dedicatedtechnical.com/carpentry-services-dubai/">
+                                <a >
                                   Carpentry Services
                                 </a>
                               </h3>
@@ -2943,7 +2922,7 @@ const Navbar = () => {
                         {"                                    "}
                         <a
                           className="elementor-button elementor-button-link elementor-size-sm"
-                          href="https://dedicatedtechnical.com/our-services/"
+                          
                         >
                           <span className="elementor-button-content-wrapper">
                             <span className="elementor-button-text">
@@ -5461,7 +5440,6 @@ const Navbar = () => {
                           <span className="elementor-grid-item">
                             <a
                               className="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-7a54271"
-                              href="https://www.facebook.com/dedicatedtechnical/"
                               target="_blank"
                             >
                               <span className="elementor-screen-only">
@@ -5476,7 +5454,6 @@ const Navbar = () => {
                           <span className="elementor-grid-item">
                             <a
                               className="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-3398202"
-                              href="https://www.instagram.com/dedicatedtechnical/"
                               target="_blank"
                             >
                               <span className="elementor-screen-only">
@@ -5729,7 +5706,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 HOME
                               </span>
@@ -5739,7 +5716,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/blog/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 BLOG
                               </span>
@@ -5749,7 +5726,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/about-us/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 ABOUT US
                               </span>
@@ -5759,7 +5736,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/our-services/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 OUR SERVICES
                               </span>
@@ -5769,7 +5746,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/contact-us/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 CONTACT US
                               </span>
@@ -5833,7 +5810,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/ac-maintenance-dubai/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 AC Maintenance
                               </span>
@@ -5843,7 +5820,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/ac-duct-cleaning/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 Duct Cleaning
                               </span>
@@ -5853,7 +5830,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/ac-coil-cleaning/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 Coil Cleaning
                               </span>
@@ -5863,7 +5840,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/electrical-services-dubai/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 Electrical
                               </span>
@@ -5873,7 +5850,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/plumbing-services-dubai/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 Plumbing
                               </span>
@@ -5883,7 +5860,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/painting-services-in-dubai/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 Painting
                               </span>
@@ -5893,7 +5870,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/handyman-dubai/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 Handyman
                               </span>
@@ -5903,7 +5880,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/water-tank-cleaning/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 Water Tank Cleaning
                               </span>
@@ -5954,7 +5931,7 @@ const Navbar = () => {
                         <p>
                           © Copyright 2023{"  "}
                           <a
-                            href="https://dedicatedtechnical.com/"
+                            href="https://www.eastmanenterprises.com/"
                             style={{
                               color: "#031b4d",
                             }}
@@ -5993,7 +5970,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item elementor-inline-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/payment-refund-cancellation-policy/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 Payment Refund Cancellation Policy
                               </span>
@@ -6003,7 +5980,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item elementor-inline-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/privacy-policy/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 Privacy Policy
                               </span>
@@ -6013,7 +5990,7 @@ const Navbar = () => {
                           {"                                        "}
                           <li className="elementor-icon-list-item elementor-inline-item">
                             {"                                            "}
-                            <a href="https://dedicatedtechnical.com/terms-and-conditions/">
+                            <a >
                               <span className="elementor-icon-list-text">
                                 Terms And Conditions
                               </span>
