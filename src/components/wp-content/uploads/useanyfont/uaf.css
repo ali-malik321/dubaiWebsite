@@ -1,0 +1,9 @@
+				@font-face {
+				    font-family: 'gunplay-400';
+				    src: url('/wp-content/uploads/useanyfont/1463gunplay-400.woff2') format('woff2'), url('/wp-content/uploads/useanyfont/1463gunplay-400.woff') format('woff');
+				    font-display: auto;
+				}
+
+				.gunplay-400 {
+				    font-family: 'gunplay-400' !important;
+				}
